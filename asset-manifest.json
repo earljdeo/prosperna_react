@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/prosperna_react/static/css/main.df8d09b5.chunk.css",
+    "main.js": "/prosperna_react/static/js/main.5bee2e9a.chunk.js",
+    "main.js.map": "/prosperna_react/static/js/main.5bee2e9a.chunk.js.map",
+    "runtime-main.js": "/prosperna_react/static/js/runtime-main.843c4eef.js",
+    "runtime-main.js.map": "/prosperna_react/static/js/runtime-main.843c4eef.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/prosperna_react/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3e7ef805.chunk.js": "/prosperna_react/static/js/2.3e7ef805.chunk.js",
+    "static/js/2.3e7ef805.chunk.js.map": "/prosperna_react/static/js/2.3e7ef805.chunk.js.map",
+    "static/js/3.e4caa163.chunk.js": "/prosperna_react/static/js/3.e4caa163.chunk.js",
+    "static/js/3.e4caa163.chunk.js.map": "/prosperna_react/static/js/3.e4caa163.chunk.js.map",
+    "index.html": "/prosperna_react/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/prosperna_react/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.df8d09b5.chunk.css.map": "/prosperna_react/static/css/main.df8d09b5.chunk.css.map",
+    "static/js/2.3e7ef805.chunk.js.LICENSE.txt": "/prosperna_react/static/js/2.3e7ef805.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/prosperna_react/static/media/hero-bg.181836b4.png",
+    "static/media/heading-hero.39c55566.svg": "/prosperna_react/static/media/heading-hero.39c55566.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.843c4eef.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3e7ef805.chunk.js",
+    "static/css/main.df8d09b5.chunk.css",
+    "static/js/main.5bee2e9a.chunk.js"
+  ]
+}
