@@ -5,6 +5,7 @@ function HeroContent() {
     return (
         <div className="float-content">
             <img src={headingimg1} className="img-fluid" />
+            <img src={headingimg1} className="img-fluid" />
         </div>
     )
 }
